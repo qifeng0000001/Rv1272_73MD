@@ -4,3 +4,4 @@ Evidence of system equilibration is refer to http://www.mdtutorials.com/gmx/lyso
 Energy_Minimization_potential.xvg is the process record of energy minimization.  
 Equilibration_temperature.xvg is the temperature record of last part of NVT equilibration.  
 Equilibration_pressure.xvg and Equilibration_density.xvg is the pressure and density record of last part of NPT equilibration.  
+charmm-gui.zip.001,charmm-gui.zip.002,charmm-gui.zip.003 are files provided by CHARMM-GUI webserver.  
